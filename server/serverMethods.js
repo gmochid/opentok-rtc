@@ -458,6 +458,7 @@ function ServerMethods(aLogLevel, aModules) {
           reportIssueLevel: tbConfig.reportIssueLevel,
         };
         answer[aReq.sessionIdField || 'sessionId'] = usableSessionInfo.sessionId;
+        console.log('serverMethods', usableSessionInfo.sessionId, answer.token);
         aRes.send(answer);
       });
   }

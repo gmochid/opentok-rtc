@@ -816,6 +816,7 @@ RecordingsController, ScreenShareController, FeedbackController, PhoneNumberCont
       sessionId: aParams.sessionId,
       token: aParams.token
     };
+    console.log('roomController', aParams.sessionId, aParams.token);
 
     var connect = otHelper.connect.bind(otHelper, sessionInfo);
 
