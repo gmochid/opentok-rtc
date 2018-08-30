@@ -147,7 +147,7 @@
 
         onConnect: function onConnect(error) {
           if (error) {
-            console.error('Could not connect to OpenTok.', error);
+            console.error('Could not connect to Islamic Cyber Dentistry.', error);
           }
           session.publish(publisher, callbacks.onPublish);
         }

@@ -1,7 +1,7 @@
 {
   "name": "opentok-rtc",
   "version": "4.0.1",
-  "description": "OpenTokRTC sample application to show off the OpenTok API and platform capabilities ",
+  "description": "Islamic Cyber Dentistry sample application",
   "main": "server.js",
   "engines": {
     "node": "8.0.x",

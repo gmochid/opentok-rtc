@@ -61,13 +61,13 @@ BubbleFactory, Clipboard, LayoutManager */
     },
     endCall: {
       head: 'Exit the Meeting',
-      detail: 'You are going to exit the OpenTok Meeting Room. The call will continue with the ' +
+      detail: 'You are going to exit the Islamic Cyber Dentistry Meeting Room. The call will continue with the ' +
               'remaining participants.',
       button: 'End meeting'
     },
     sessionDisconnected: {
       head: 'Session disconected',
-      detail: 'The connection to the OpenTok platform has been lost. Check your network ' +
+      detail: 'The connection to the Islamic Cyber Dentistry platform has been lost. Check your network ' +
               'connectivity and press Reload to connect again.',
       button: 'Reload'
     },
